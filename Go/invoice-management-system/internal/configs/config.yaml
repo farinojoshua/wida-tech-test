@@ -1,0 +1,5 @@
+service:
+  port: ":8080"
+
+database:
+  dataSourceName: "root:root@tcp(localhost:3306)/invoice_management_system_db?parseTime=true"
